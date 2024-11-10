@@ -1,4 +1,4 @@
-![logo](https://github.com/atul8121990/atul8121990/blob/main/banner.png)
+![logo](https://github.com/atul8121990/atul8121990/blob/main/banners.png)
 <h1 align="center">Hi 👋, I'm Atul Kumar</h1>
 <h3 align="center">Cloud Engineer | Network Engineer 🌐 Passionate about building scalable cloud solutions and optimizing network performance.</h3>
 
