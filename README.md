@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/a2ul_sharma" target="blank"><img src="https://img.shields.io/twitter/follow/a2ul_sharma?logo=twitter&style=for-the-badge" alt="a2ul_sharma" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, AZURE and DEVOPS**
+- 🌱  An experienced Cloud and Network Engineer skilled in AWS, Azure, and DevOps, with a strong background in Cisco network administration, including expertise with Cisco switches, routers, access points, and IP phones.**
 
 - 📝 I regularly write articles on [cloud and Network Engineering](cloud and Network Engineering)
 
